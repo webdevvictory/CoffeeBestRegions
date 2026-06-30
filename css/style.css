@@ -4,7 +4,6 @@ body {
     color: #222;
     line-height: 1.4;
 }
-
 .banner {
     background-image: url(../img/coffee-bgnd.jpeg);
     height: 25em;
@@ -14,7 +13,6 @@ body {
     align-items: center;
     justify-content: center;
 }
-
 h1 {
     color: #6ea57c;
     font-family: "Covered By Your Grace", cursive;
